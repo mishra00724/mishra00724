@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Himanshu Mishra</h1>
-<h3 align="center">A passionate for NET(New Emerging Technologies)</h3>
+<h3 align="center">A Passionate Engineer for NET(New Emerging Technologies)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu" /> </p>
 
 - 🔭 I’m currently working on DevOps Projects [CICD_Jenkins_Java](https://github.com/mishra00724/CICD_Jekins_Java.git)
 
-- 🌱 I’m currently learning **BackEnd, CI/CD & Machine-Learning.**
+- 🌱 Also I’m currently learning **BackEnd, CI/CD & Machine-Learning.**
 
 - 👯 I’m looking to collaborate on my Machine Learning Project. [Yamuna_Cleaner](https://github.com/mishra00724/Yamuna_Cleaner.git)
 
-- 🤝 I’m looking for help with Python Machine Learning [Yamuna_Cleaner](https://github.com/mishra00724/Yamuna_Cleaner.git)
+- 🤝 I’m looking for help with Python Machine Learning frameworks. [Yamuna_Cleaner](https://github.com/mishra00724/Yamuna_Cleaner.git)
 
 - 📝 I regularly write articles on [https://mishrahimanshu.hashnode.dev](https://mishrahimanshu.hashnode.dev)
 
