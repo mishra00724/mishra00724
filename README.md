@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Himanshu Mishra , A passionate Software Developer and Data Enthusiast.</h1>
+<h1>Hi 👋, I'm Himanshu Mishra , A Data Enthusiast.</h1>
 <p>🎯 **Aspiring Machine Learning Engineer** | 📊 **Data Analyst**   🔍 Passionate about uncovering insights from Data and Building Intelligent Systems.  </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
